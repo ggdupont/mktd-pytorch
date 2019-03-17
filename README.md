@@ -70,15 +70,17 @@ The process of machine learning can be decompose in 7 steps :
 - 4.2 Validate model with unseen dataset
 - 4.3 Visualize confusion matrix
 
-## 6 - Prediction
-
-- 6.1 Create a command line interface to make predictions
-- 6.2 Create a web service (REST API) to make predictions
-
 ## 5 - Hyperparameter tunning
 
 - 5.1 Use different layers (Dense, Conv2D)
 - 5.2 Pooling layer
 - 5.3 BatchNormalization, Dropout
 - 5.4 Play with training parameters
+
+## 6 - Prediction
+
+- 6.1 Create a command line interface to make predictions
+- 6.2 Create a web service (REST API) to make predictions
+
+
 
